@@ -8,20 +8,16 @@ def standaardtarief(afstandKM):
     elif afstandKM <= 0:
         res = afstandKM * 0
         return res
-
 def ritprijs(leeftijd, weekendrit, afstandKM):
-    if leeftijd < 12 and weekendrit == True:
-        res = standaardtarief(afstandKM) * 0.7
-    elif leeftijd >= 12 and leeftijd < 65 and weekendrit == True:
-        res = standaardtarief(afstandKM)
-    elif leeftijd >= 65 and weekendrit == True:
-        res = standaardtarief(afstandKM) * 0.7
-    elif leeftijd < 12 and weekendrit == False:
-        res = standaardtarief(afstandKM) * 0.65
-    elif leeftijd >= 12 and leeftijd < 65 and weekendrit == False:
-        res = standaardtarief(afstandKM) * 0.6
-    elif leeftijd >= 65 and weekendrit == False:
-        res = standaardtarief(afstandKM) * 0.65
-    return res
-
-print((ritprijs(12, True, 45)))
+   if leeftijd < 12 or leeftijd >= 65:
+       if weekendrit == True:
+           res = standaardtarief(afstandKM) * 0.65
+       else:
+           res = standaardtarief(afstandKM) * 0.7
+   else:
+       if weekendrit == True:
+           res = standaardtarief (afstandKM) * 0.6
+       else:
+           res = standaardtarief (afstandKM)
+   return res
+print((ritprijs(65, True, 51)))
