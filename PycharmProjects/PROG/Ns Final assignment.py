@@ -22,4 +22,10 @@ def ritprijs(leeftijd, weekendrit, afstandKM):
        else:
            korting = 1
    return standaardtarief(afstandKM) * korting
-print((ritprijs(65, True, 51)))
+
+
+
+for afstand in range(-5,60, 30):
+    for leeftijd in range(11, 66, 15):
+        print(ritprijs(leeftijd, True, afstand))
+        print(ritprijs(leeftijd, False, afstand))
