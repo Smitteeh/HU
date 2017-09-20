@@ -1,23 +1,58 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="$Delete" count="3" />
+      <entry action="$Delete" count="4" />
+      <entry action="$SelectAll" count="4" />
+      <entry action="$Undo" count="350" />
       <entry action="ChangesView.ApplyPatch" count="1" />
-      <entry action="CheckinFiles" count="2" />
-      <entry action="CheckinProject" count="2" />
-      <entry action="EditorBackSpace" count="36" />
-      <entry action="EditorEnter" count="2" />
-      <entry action="EditorRight" count="3" />
-      <entry action="Git.Add" count="4" />
+      <entry action="CheckinFiles" count="8" />
+      <entry action="CheckinProject" count="3" />
+      <entry action="CopyElement" count="1" />
+      <entry action="Coverage" count="2" />
+      <entry action="Debug" count="2" />
+      <entry action="EditorBackSpace" count="1788" />
+      <entry action="EditorChooseLookupItem" count="151" />
+      <entry action="EditorCopy" count="13" />
+      <entry action="EditorCut" count="21" />
+      <entry action="EditorDelete" count="172" />
+      <entry action="EditorDeleteLine" count="4" />
+      <entry action="EditorDeleteToWordStart" count="1" />
+      <entry action="EditorDown" count="72" />
+      <entry action="EditorDownWithSelection" count="6" />
+      <entry action="EditorEnter" count="319" />
+      <entry action="EditorLeft" count="507" />
+      <entry action="EditorLeftWithSelection" count="98" />
+      <entry action="EditorNextWord" count="37" />
+      <entry action="EditorNextWordWithSelection" count="38" />
+      <entry action="EditorPaste" count="49" />
+      <entry action="EditorPreviousWord" count="20" />
+      <entry action="EditorPreviousWordWithSelection" count="4" />
+      <entry action="EditorRight" count="889" />
+      <entry action="EditorRightWithSelection" count="84" />
+      <entry action="EditorStartNewLine" count="2" />
+      <entry action="EditorTab" count="14" />
+      <entry action="EditorUnindentSelection" count="2" />
+      <entry action="EditorUp" count="55" />
+      <entry action="EditorUpWithSelection" count="7" />
+      <entry action="Git.Add" count="8" />
       <entry action="Git.Fetch" count="2" />
       <entry action="Github.Create.Pull.Request" count="1" />
       <entry action="Github.Open.In.Browser" count="1" />
       <entry action="Github.Share" count="4" />
-      <entry action="NewElement" count="3" />
+      <entry action="HideAllWindows" count="4" />
+      <entry action="MoveStatementDown" count="2" />
+      <entry action="NewElement" count="14" />
+      <entry action="NewScratchFile" count="2" />
       <entry action="OpenFile" count="1" />
-      <entry action="ShowSettings" count="2" />
+      <entry action="Rerun" count="13" />
+      <entry action="Run" count="270" />
+      <entry action="RunClass" count="24" />
+      <entry action="SaveAll" count="5" />
+      <entry action="ShowSettings" count="4" />
       <entry action="Start.Use.Vcs" count="1" />
+      <entry action="ToggleLineBreakpoint" count="3" />
       <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="com.jetbrains.python.console.RunPythonConsoleAction" count="2" />
     </counts>
   </component>
 </application>
