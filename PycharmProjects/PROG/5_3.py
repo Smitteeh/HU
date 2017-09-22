@@ -1,0 +1,1 @@
+infile = open(Kaartnummers.txt)
