@@ -3,37 +3,37 @@
     <counts>
       <entry action="$Delete" count="4" />
       <entry action="$SelectAll" count="5" />
-      <entry action="$Undo" count="368" />
+      <entry action="$Undo" count="379" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="CheckinFiles" count="8" />
-      <entry action="CheckinProject" count="4" />
+      <entry action="CheckinProject" count="5" />
       <entry action="CopyElement" count="1" />
       <entry action="Coverage" count="2" />
       <entry action="Debug" count="2" />
-      <entry action="EditorBackSpace" count="2672" />
-      <entry action="EditorChooseLookupItem" count="172" />
-      <entry action="EditorCopy" count="17" />
-      <entry action="EditorCut" count="21" />
-      <entry action="EditorDelete" count="257" />
+      <entry action="EditorBackSpace" count="3167" />
+      <entry action="EditorChooseLookupItem" count="181" />
+      <entry action="EditorCopy" count="19" />
+      <entry action="EditorCut" count="25" />
+      <entry action="EditorDelete" count="343" />
       <entry action="EditorDeleteLine" count="4" />
       <entry action="EditorDeleteToWordStart" count="3" />
-      <entry action="EditorDown" count="86" />
-      <entry action="EditorDownWithSelection" count="9" />
-      <entry action="EditorEnter" count="372" />
-      <entry action="EditorLeft" count="697" />
-      <entry action="EditorLeftWithSelection" count="122" />
-      <entry action="EditorNextWord" count="37" />
-      <entry action="EditorNextWordWithSelection" count="38" />
-      <entry action="EditorPaste" count="61" />
-      <entry action="EditorPreviousWord" count="21" />
-      <entry action="EditorPreviousWordWithSelection" count="4" />
-      <entry action="EditorRight" count="1090" />
+      <entry action="EditorDown" count="103" />
+      <entry action="EditorDownWithSelection" count="14" />
+      <entry action="EditorEnter" count="424" />
+      <entry action="EditorLeft" count="795" />
+      <entry action="EditorLeftWithSelection" count="160" />
+      <entry action="EditorNextWord" count="42" />
+      <entry action="EditorNextWordWithSelection" count="46" />
+      <entry action="EditorPaste" count="67" />
+      <entry action="EditorPreviousWord" count="27" />
+      <entry action="EditorPreviousWordWithSelection" count="15" />
+      <entry action="EditorRight" count="1273" />
       <entry action="EditorRightWithSelection" count="144" />
       <entry action="EditorStartNewLine" count="2" />
-      <entry action="EditorTab" count="19" />
+      <entry action="EditorTab" count="20" />
       <entry action="EditorUnindentSelection" count="2" />
-      <entry action="EditorUp" count="68" />
-      <entry action="EditorUpWithSelection" count="9" />
+      <entry action="EditorUp" count="81" />
+      <entry action="EditorUpWithSelection" count="12" />
       <entry action="Git.Add" count="8" />
       <entry action="Git.Fetch" count="2" />
       <entry action="Github.Create.Pull.Request" count="1" />
@@ -45,8 +45,8 @@
       <entry action="NewScratchFile" count="2" />
       <entry action="OpenFile" count="1" />
       <entry action="Rerun" count="13" />
-      <entry action="Run" count="323" />
-      <entry action="RunClass" count="28" />
+      <entry action="Run" count="384" />
+      <entry action="RunClass" count="30" />
       <entry action="SaveAll" count="5" />
       <entry action="ShowSettings" count="4" />
       <entry action="Start.Use.Vcs" count="1" />

@@ -4,7 +4,7 @@
       <entry action="Coverage@NavBarToolbar" count="2" />
       <entry action="Debug@NavBarToolbar" count="2" />
       <entry action="Rerun@RunnerToolbar" count="13" />
-      <entry action="Run@NavBarToolbar" count="323" />
+      <entry action="Run@NavBarToolbar" count="384" />
       <entry action="com.intellij.openapi.vcs.actions.ShowNextChangeMarkerAction@toolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.ex.LineStatusTrackerDrawing$ToggleByWordDiffAction@toolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.ex.ShowLineStatusRangeDiffAction@toolbar" count="1" />
