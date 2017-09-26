@@ -6,28 +6,28 @@
       <entry action="$Undo" count="383" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="CheckinFiles" count="8" />
-      <entry action="CheckinProject" count="6" />
+      <entry action="CheckinProject" count="7" />
       <entry action="CopyElement" count="1" />
       <entry action="Coverage" count="2" />
       <entry action="Debug" count="2" />
-      <entry action="EditorBackSpace" count="3475" />
-      <entry action="EditorChooseLookupItem" count="199" />
+      <entry action="EditorBackSpace" count="3529" />
+      <entry action="EditorChooseLookupItem" count="207" />
       <entry action="EditorCopy" count="20" />
       <entry action="EditorCut" count="32" />
-      <entry action="EditorDelete" count="353" />
+      <entry action="EditorDelete" count="355" />
       <entry action="EditorDeleteLine" count="4" />
       <entry action="EditorDeleteToWordStart" count="3" />
-      <entry action="EditorDown" count="110" />
+      <entry action="EditorDown" count="111" />
       <entry action="EditorDownWithSelection" count="14" />
-      <entry action="EditorEnter" count="477" />
-      <entry action="EditorLeft" count="814" />
+      <entry action="EditorEnter" count="481" />
+      <entry action="EditorLeft" count="818" />
       <entry action="EditorLeftWithSelection" count="190" />
       <entry action="EditorNextWord" count="99" />
       <entry action="EditorNextWordWithSelection" count="46" />
       <entry action="EditorPaste" count="77" />
       <entry action="EditorPreviousWord" count="34" />
       <entry action="EditorPreviousWordWithSelection" count="17" />
-      <entry action="EditorRight" count="1334" />
+      <entry action="EditorRight" count="1364" />
       <entry action="EditorRightWithSelection" count="160" />
       <entry action="EditorStartNewLine" count="2" />
       <entry action="EditorTab" count="21" />
@@ -41,11 +41,11 @@
       <entry action="Github.Share" count="4" />
       <entry action="HideAllWindows" count="4" />
       <entry action="MoveStatementDown" count="2" />
-      <entry action="NewElement" count="22" />
+      <entry action="NewElement" count="25" />
       <entry action="NewScratchFile" count="2" />
       <entry action="OpenFile" count="1" />
       <entry action="Rerun" count="14" />
-      <entry action="Run" count="433" />
+      <entry action="Run" count="442" />
       <entry action="RunClass" count="32" />
       <entry action="SaveAll" count="5" />
       <entry action="ShowSettings" count="4" />
