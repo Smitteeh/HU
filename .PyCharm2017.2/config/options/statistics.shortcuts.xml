@@ -1,7 +1,7 @@
 <application>
   <component name="ShortcutsCollector">
     <counts>
-      <entry shortcut="Backspace" count="3572" />
+      <entry shortcut="Backspace" count="3783" />
       <entry shortcut="Ctrl+A" count="5" />
       <entry shortcut="Ctrl+Backspace" count="3" />
       <entry shortcut="Ctrl+C" count="20" />
@@ -10,19 +10,19 @@
       <entry shortcut="Ctrl+Right" count="99" />
       <entry shortcut="Ctrl+S" count="5" />
       <entry shortcut="Ctrl+Shift+Down" count="2" />
-      <entry shortcut="Ctrl+Shift+F10" count="32" />
-      <entry shortcut="Ctrl+Shift+Left" count="17" />
-      <entry shortcut="Ctrl+Shift+Right" count="46" />
-      <entry shortcut="Ctrl+V" count="77" />
-      <entry shortcut="Ctrl+X" count="32" />
+      <entry shortcut="Ctrl+Shift+F10" count="35" />
+      <entry shortcut="Ctrl+Shift+Left" count="22" />
+      <entry shortcut="Ctrl+Shift+Right" count="47" />
+      <entry shortcut="Ctrl+V" count="94" />
+      <entry shortcut="Ctrl+X" count="33" />
       <entry shortcut="Ctrl+Y" count="4" />
-      <entry shortcut="Ctrl+Z" count="383" />
-      <entry shortcut="Delete" count="355" />
-      <entry shortcut="Down" count="111" />
-      <entry shortcut="Enter" count="854" />
+      <entry shortcut="Ctrl+Z" count="384" />
+      <entry shortcut="Delete" count="357" />
+      <entry shortcut="Down" count="115" />
+      <entry shortcut="Enter" count="910" />
       <entry shortcut="F5" count="1" />
-      <entry shortcut="Left" count="818" />
-      <entry shortcut="Right" count="1364" />
+      <entry shortcut="Left" count="823" />
+      <entry shortcut="Right" count="1406" />
       <entry shortcut="Shift+Backspace" count="2" />
       <entry shortcut="Shift+Down" count="14" />
       <entry shortcut="Shift+Enter" count="2" />
@@ -30,8 +30,8 @@
       <entry shortcut="Shift+Right" count="160" />
       <entry shortcut="Shift+Tab" count="2" />
       <entry shortcut="Shift+Up" count="12" />
-      <entry shortcut="Tab" count="21" />
-      <entry shortcut="Up" count="91" />
+      <entry shortcut="Tab" count="22" />
+      <entry shortcut="Up" count="93" />
     </counts>
   </component>
 </application>

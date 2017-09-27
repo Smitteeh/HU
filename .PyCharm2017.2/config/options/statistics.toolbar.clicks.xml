@@ -1,11 +1,12 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="CheckinProject@NavBarToolbar" count="1" />
+      <entry action="CheckinProject@NavBarToolbar" count="2" />
       <entry action="Coverage@NavBarToolbar" count="2" />
-      <entry action="Debug@NavBarToolbar" count="2" />
+      <entry action="Debug@NavBarToolbar" count="4" />
+      <entry action="Rerun@DebuggerToolbar" count="1" />
       <entry action="Rerun@RunnerToolbar" count="14" />
-      <entry action="Run@NavBarToolbar" count="442" />
+      <entry action="Run@NavBarToolbar" count="462" />
       <entry action="Stop@NavBarToolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.actions.ShowNextChangeMarkerAction@toolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.ex.LineStatusTrackerDrawing$ToggleByWordDiffAction@toolbar" count="1" />
