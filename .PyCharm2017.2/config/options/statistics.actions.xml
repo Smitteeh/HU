@@ -6,7 +6,7 @@
       <entry action="$Undo" count="507" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="CheckinFiles" count="8" />
-      <entry action="CheckinProject" count="10" />
+      <entry action="CheckinProject" count="11" />
       <entry action="CopyElement" count="1" />
       <entry action="Coverage" count="2" />
       <entry action="Debug" count="5" />
@@ -53,7 +53,7 @@
       <entry action="ShowBookmarks" count="2" />
       <entry action="ShowSettings" count="4" />
       <entry action="Start.Use.Vcs" count="1" />
-      <entry action="Stop" count="6" />
+      <entry action="Stop" count="7" />
       <entry action="ToggleLineBreakpoint" count="3" />
       <entry action="Vcs.QuickListPopupAction" count="1" />
       <entry action="Vcs.UpdateProject" count="1" />
