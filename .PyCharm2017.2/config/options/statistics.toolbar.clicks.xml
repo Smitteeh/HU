@@ -1,15 +1,15 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="CheckinProject@NavBarToolbar" count="3" />
+      <entry action="CheckinProject@NavBarToolbar" count="4" />
       <entry action="Coverage@NavBarToolbar" count="2" />
       <entry action="Debug@NavBarToolbar" count="5" />
       <entry action="Profiler@NavBarToolbar" count="1" />
       <entry action="Rerun@DebuggerToolbar" count="3" />
-      <entry action="Rerun@RunnerToolbar" count="15" />
-      <entry action="Run@NavBarToolbar" count="544" />
+      <entry action="Rerun@RunnerToolbar" count="20" />
+      <entry action="Run@NavBarToolbar" count="562" />
       <entry action="Stop@NavBarToolbar" count="1" />
-      <entry action="Stop@RunnerToolbar" count="2" />
+      <entry action="Stop@RunnerToolbar" count="5" />
       <entry action="com.intellij.execution.ui.actions.CloseAction@PyProfileSession" count="1" />
       <entry action="com.intellij.openapi.vcs.actions.ShowNextChangeMarkerAction@toolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.ex.LineStatusTrackerDrawing$ToggleByWordDiffAction@toolbar" count="1" />

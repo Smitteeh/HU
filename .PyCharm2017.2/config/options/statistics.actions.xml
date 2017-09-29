@@ -2,38 +2,38 @@
   <component name="ActionsCollector">
     <counts>
       <entry action="$Delete" count="4" />
-      <entry action="$SelectAll" count="5" />
-      <entry action="$Undo" count="426" />
+      <entry action="$SelectAll" count="6" />
+      <entry action="$Undo" count="507" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="CheckinFiles" count="8" />
-      <entry action="CheckinProject" count="9" />
+      <entry action="CheckinProject" count="10" />
       <entry action="CopyElement" count="1" />
       <entry action="Coverage" count="2" />
       <entry action="Debug" count="5" />
-      <entry action="EditorBackSpace" count="4292" />
-      <entry action="EditorChooseLookupItem" count="254" />
+      <entry action="EditorBackSpace" count="4874" />
+      <entry action="EditorChooseLookupItem" count="280" />
       <entry action="EditorCopy" count="23" />
-      <entry action="EditorCut" count="51" />
-      <entry action="EditorDelete" count="416" />
+      <entry action="EditorCut" count="54" />
+      <entry action="EditorDelete" count="444" />
       <entry action="EditorDeleteLine" count="4" />
       <entry action="EditorDeleteToWordStart" count="3" />
-      <entry action="EditorDown" count="217" />
-      <entry action="EditorDownWithSelection" count="37" />
-      <entry action="EditorEnter" count="636" />
-      <entry action="EditorLeft" count="1189" />
-      <entry action="EditorLeftWithSelection" count="324" />
-      <entry action="EditorNextWord" count="103" />
+      <entry action="EditorDown" count="283" />
+      <entry action="EditorDownWithSelection" count="38" />
+      <entry action="EditorEnter" count="696" />
+      <entry action="EditorLeft" count="1510" />
+      <entry action="EditorLeftWithSelection" count="385" />
+      <entry action="EditorNextWord" count="114" />
       <entry action="EditorNextWordWithSelection" count="50" />
-      <entry action="EditorPaste" count="110" />
+      <entry action="EditorPaste" count="115" />
       <entry action="EditorPreviousWord" count="35" />
-      <entry action="EditorPreviousWordWithSelection" count="27" />
-      <entry action="EditorRight" count="2224" />
+      <entry action="EditorPreviousWordWithSelection" count="37" />
+      <entry action="EditorRight" count="2857" />
       <entry action="EditorRightWithSelection" count="180" />
       <entry action="EditorStartNewLine" count="3" />
-      <entry action="EditorTab" count="24" />
-      <entry action="EditorUnindentSelection" count="5" />
-      <entry action="EditorUp" count="164" />
-      <entry action="EditorUpWithSelection" count="17" />
+      <entry action="EditorTab" count="38" />
+      <entry action="EditorUnindentSelection" count="17" />
+      <entry action="EditorUp" count="204" />
+      <entry action="EditorUpWithSelection" count="25" />
       <entry action="Git.Add" count="8" />
       <entry action="Git.Fetch" count="2" />
       <entry action="Github.Create.Pull.Request" count="1" />
@@ -41,18 +41,19 @@
       <entry action="Github.Share" count="4" />
       <entry action="HideAllWindows" count="4" />
       <entry action="MoveStatementDown" count="2" />
-      <entry action="NewElement" count="31" />
+      <entry action="NewElement" count="37" />
       <entry action="NewPythonFile" count="1" />
       <entry action="NewScratchFile" count="2" />
       <entry action="OpenFile" count="1" />
       <entry action="Profiler" count="1" />
-      <entry action="Rerun" count="18" />
-      <entry action="Run" count="544" />
-      <entry action="RunClass" count="53" />
+      <entry action="Rerun" count="23" />
+      <entry action="Run" count="595" />
+      <entry action="RunClass" count="58" />
       <entry action="SaveAll" count="5" />
+      <entry action="ShowBookmarks" count="2" />
       <entry action="ShowSettings" count="4" />
       <entry action="Start.Use.Vcs" count="1" />
-      <entry action="Stop" count="3" />
+      <entry action="Stop" count="6" />
       <entry action="ToggleLineBreakpoint" count="3" />
       <entry action="Vcs.QuickListPopupAction" count="1" />
       <entry action="Vcs.UpdateProject" count="1" />
