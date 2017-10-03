@@ -6,36 +6,36 @@
       <entry action="$Undo" count="603" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="CheckinFiles" count="8" />
-      <entry action="CheckinProject" count="12" />
+      <entry action="CheckinProject" count="13" />
       <entry action="CloseActiveTab" count="16" />
       <entry action="CopyElement" count="1" />
       <entry action="Coverage" count="2" />
       <entry action="Debug" count="7" />
       <entry action="EditSourceInNewWindow" count="2" />
-      <entry action="EditorBackSpace" count="6135" />
-      <entry action="EditorChooseLookupItem" count="330" />
+      <entry action="EditorBackSpace" count="6151" />
+      <entry action="EditorChooseLookupItem" count="331" />
       <entry action="EditorCopy" count="36" />
       <entry action="EditorCut" count="60" />
       <entry action="EditorDelete" count="528" />
       <entry action="EditorDeleteLine" count="7" />
       <entry action="EditorDeleteToWordStart" count="5" />
-      <entry action="EditorDown" count="442" />
+      <entry action="EditorDown" count="461" />
       <entry action="EditorDownWithSelection" count="75" />
-      <entry action="EditorEnter" count="817" />
-      <entry action="EditorIndentSelection" count="4" />
-      <entry action="EditorLeft" count="1815" />
+      <entry action="EditorEnter" count="820" />
+      <entry action="EditorIndentSelection" count="5" />
+      <entry action="EditorLeft" count="1834" />
       <entry action="EditorLeftWithSelection" count="424" />
       <entry action="EditorNextWord" count="133" />
       <entry action="EditorNextWordWithSelection" count="65" />
       <entry action="EditorPaste" count="138" />
       <entry action="EditorPreviousWord" count="42" />
       <entry action="EditorPreviousWordWithSelection" count="37" />
-      <entry action="EditorRight" count="3286" />
+      <entry action="EditorRight" count="3287" />
       <entry action="EditorRightWithSelection" count="354" />
       <entry action="EditorStartNewLine" count="3" />
       <entry action="EditorTab" count="47" />
       <entry action="EditorUnindentSelection" count="19" />
-      <entry action="EditorUp" count="338" />
+      <entry action="EditorUp" count="340" />
       <entry action="EditorUpWithSelection" count="26" />
       <entry action="Git.Add" count="8" />
       <entry action="Git.Fetch" count="2" />
@@ -53,7 +53,7 @@
       <entry action="Profiler" count="1" />
       <entry action="ReformatCode" count="2" />
       <entry action="Rerun" count="137" />
-      <entry action="Run" count="860" />
+      <entry action="Run" count="864" />
       <entry action="RunClass" count="65" />
       <entry action="SaveAll" count="6" />
       <entry action="SaveAs" count="2" />
