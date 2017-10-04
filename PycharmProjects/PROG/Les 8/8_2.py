@@ -11,7 +11,6 @@ def monopolyworp():
             break
         elif Dobbelsteen1 == Dobbelsteen2:
             Samen = str(Dobbelsteen1) + ' + ' + str(Dobbelsteen2) + ' = ' + str(Dobbelsteen1+Dobbelsteen2) + ' (Dubbel)'
-            True
             print(Samen)
             Beurten = Beurten + 1
         else:
