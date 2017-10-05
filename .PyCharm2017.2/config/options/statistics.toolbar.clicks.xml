@@ -6,10 +6,10 @@
       <entry action="Debug@NavBarToolbar" count="5" />
       <entry action="Profiler@NavBarToolbar" count="1" />
       <entry action="Rerun@DebuggerToolbar" count="3" />
-      <entry action="Rerun@RunnerToolbar" count="134" />
-      <entry action="Run@NavBarToolbar" count="869" />
+      <entry action="Rerun@RunnerToolbar" count="135" />
+      <entry action="Run@NavBarToolbar" count="876" />
       <entry action="Stop@NavBarToolbar" count="2" />
-      <entry action="Stop@RunnerToolbar" count="8" />
+      <entry action="Stop@RunnerToolbar" count="9" />
       <entry action="com.intellij.execution.ui.actions.CloseAction@PyProfileSession" count="1" />
       <entry action="com.intellij.openapi.vcs.actions.ShowNextChangeMarkerAction@toolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.ex.LineStatusTrackerDrawing$ToggleByWordDiffAction@toolbar" count="1" />
