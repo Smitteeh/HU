@@ -43,7 +43,6 @@ while True:
     menu = 1
     opdracht = input ('Maak uw keuze')
     if opdracht == 'stop':
-        infile.close ()
         break
     elif opdracht == '1':
         toon_aantal_kluizen_vrij ()

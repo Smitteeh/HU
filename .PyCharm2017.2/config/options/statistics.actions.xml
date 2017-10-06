@@ -3,44 +3,45 @@
     <counts>
       <entry action="$Delete" count="14" />
       <entry action="$SelectAll" count="17" />
-      <entry action="$Undo" count="626" />
+      <entry action="$Undo" count="646" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="CheckinFiles" count="8" />
-      <entry action="CheckinProject" count="18" />
+      <entry action="CheckinProject" count="19" />
       <entry action="CloseActiveTab" count="16" />
       <entry action="CollapseRegion" count="3" />
       <entry action="CopyElement" count="1" />
       <entry action="Coverage" count="2" />
       <entry action="Debug" count="7" />
       <entry action="EditSourceInNewWindow" count="2" />
-      <entry action="EditorBackSpace" count="6909" />
-      <entry action="EditorChooseLookupItem" count="421" />
-      <entry action="EditorCopy" count="42" />
-      <entry action="EditorCut" count="71" />
-      <entry action="EditorDelete" count="610" />
+      <entry action="EditorBackSpace" count="7053" />
+      <entry action="EditorChooseLookupItem" count="443" />
+      <entry action="EditorCopy" count="45" />
+      <entry action="EditorCut" count="73" />
+      <entry action="EditorDelete" count="653" />
       <entry action="EditorDeleteLine" count="7" />
       <entry action="EditorDeleteToWordStart" count="5" />
-      <entry action="EditorDown" count="499" />
+      <entry action="EditorDown" count="515" />
       <entry action="EditorDownWithSelection" count="83" />
-      <entry action="EditorEnter" count="979" />
+      <entry action="EditorEnter" count="1007" />
       <entry action="EditorIndentSelection" count="7" />
-      <entry action="EditorLeft" count="2217" />
+      <entry action="EditorLeft" count="2273" />
       <entry action="EditorLeftWithSelection" count="459" />
       <entry action="EditorNextWord" count="186" />
       <entry action="EditorNextWordWithSelection" count="65" />
-      <entry action="EditorPaste" count="162" />
+      <entry action="EditorPaste" count="167" />
       <entry action="EditorPreviousWord" count="73" />
       <entry action="EditorPreviousWordWithSelection" count="37" />
-      <entry action="EditorRight" count="4256" />
-      <entry action="EditorRightWithSelection" count="418" />
+      <entry action="EditorRight" count="4343" />
+      <entry action="EditorRightWithSelection" count="419" />
       <entry action="EditorStartNewLine" count="3" />
-      <entry action="EditorTab" count="53" />
+      <entry action="EditorTab" count="57" />
       <entry action="EditorUnindentSelection" count="20" />
-      <entry action="EditorUp" count="358" />
+      <entry action="EditorUp" count="360" />
       <entry action="EditorUpWithSelection" count="29" />
       <entry action="ExpandRegion" count="3" />
       <entry action="Git.Add" count="8" />
       <entry action="Git.Fetch" count="2" />
+      <entry action="Git.Pull" count="1" />
       <entry action="Github.Create.Pull.Request" count="1" />
       <entry action="Github.Open.In.Browser" count="1" />
       <entry action="Github.Share" count="4" />
@@ -49,16 +50,16 @@
       <entry action="MoveStatementDown" count="2" />
       <entry action="MoveStatementUp" count="1" />
       <entry action="NewDir" count="2" />
-      <entry action="NewElement" count="42" />
+      <entry action="NewElement" count="43" />
       <entry action="NewFile" count="5" />
       <entry action="NewPythonFile" count="5" />
       <entry action="NewScratchFile" count="3" />
       <entry action="OpenFile" count="2" />
       <entry action="Profiler" count="1" />
-      <entry action="ReformatCode" count="20" />
+      <entry action="ReformatCode" count="24" />
       <entry action="Rerun" count="138" />
-      <entry action="Run" count="967" />
-      <entry action="RunClass" count="71" />
+      <entry action="Run" count="1002" />
+      <entry action="RunClass" count="75" />
       <entry action="SaveAll" count="6" />
       <entry action="SaveAs" count="2" />
       <entry action="SearchEverywhere" count="1" />
@@ -67,10 +68,11 @@
       <entry action="ShowSettings" count="7" />
       <entry action="Start.Use.Vcs" count="1" />
       <entry action="Stop" count="11" />
+      <entry action="Synchronize" count="2" />
       <entry action="TemplateProjectProperties" count="1" />
       <entry action="ToggleLineBreakpoint" count="8" />
       <entry action="Vcs.QuickListPopupAction" count="1" />
-      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="Vcs.UpdateProject" count="2" />
       <entry action="com.jetbrains.python.console.RunPythonConsoleAction" count="2" />
     </counts>
   </component>
