@@ -3,14 +3,17 @@
     <counts>
       <entry action="CheckinProject@NavBarToolbar" count="6" />
       <entry action="Coverage@NavBarToolbar" count="2" />
-      <entry action="Debug@NavBarToolbar" count="5" />
+      <entry action="Debug@NavBarToolbar" count="6" />
       <entry action="Profiler@NavBarToolbar" count="1" />
       <entry action="Rerun@DebuggerToolbar" count="3" />
-      <entry action="Rerun@RunnerToolbar" count="135" />
-      <entry action="Run@NavBarToolbar" count="927" />
+      <entry action="Rerun@RunnerToolbar" count="137" />
+      <entry action="Run@NavBarToolbar" count="935" />
+      <entry action="StepInto@DebuggerToolbar" count="12" />
+      <entry action="StepOver@DebuggerToolbar" count="4" />
       <entry action="Stop@NavBarToolbar" count="2" />
-      <entry action="Stop@RunnerToolbar" count="9" />
+      <entry action="Stop@RunnerToolbar" count="10" />
       <entry action="com.intellij.execution.ui.actions.CloseAction@PyProfileSession" count="1" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@DebuggerToolbar" count="7" />
       <entry action="com.intellij.openapi.vcs.actions.ShowNextChangeMarkerAction@toolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.ex.LineStatusTrackerDrawing$ToggleByWordDiffAction@toolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.ex.ShowLineStatusRangeDiffAction@toolbar" count="1" />

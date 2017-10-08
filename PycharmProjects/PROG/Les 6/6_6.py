@@ -1,37 +1,45 @@
 kluis_nummers = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+
+
 def toon_aantal_kluizen_vrij():
-    with open('Kluizen.txt' ,'r') as kluizenvrij:
-        aantalkluizen = len(kluizenvrij.readlines())
+    with open ('Kluizen.txt', 'r') as kluizenvrij:
+        aantalkluizen = len (kluizenvrij.readlines ())
         vrijekluizen = 12 - aantalkluizen
-        print(vrijekluizen)
+        print (vrijekluizen)
+
 
 def nieuwe_kluis():
-    with open('Kluizen.txt', 'a') as kluizenopenen:
-        wachtwoord = input('Geef een wachtwoord op:')
-        kluizenopenen.writelines(str(kluis_nummers[0]) + ';' + str(wachtwoord) + '\n')
-        print('Uw kluisnummer is: ' + str(kluis_nummers[0]))
-        kluis_nummers.remove(kluis_nummers[0])
+    with open ('Kluizen.txt', 'a') as kluizenopenen:
+        wachtwoord = input ('Geef een wachtwoord op:')
+        kluizenopenen.writelines (str (kluis_nummers[0]) + ';' + str (wachtwoord) + '\n')
+        print ('Uw kluisnummer is: ' + str (kluis_nummers[0]))
+        kluis_nummers.remove (kluis_nummers[0])
     return
 
 
 def kluis_openen():
-    with open('Kluizen.txt', 'r') as kluizen:
-        kluisnummer = input ('Geef uw kluisnummer: ')
-        kluiscode = input ('Geef uw kluiscode: ')
-        combinatie = str(kluisnummer) + ';' + str(kluiscode)
-        if combinatie in open('Kluizen.txt').read():
-            print('Uw kluis is open!')
-        else:
-            print('Deze combinatie is niet geldig')
+    kluisfile = open ('Kluizen.txt', 'r')
+    rows = kluisfile.readlines ()
+    kluisnummer = input ('Geef uw kluisnummer: ')
+    for row in rows:
+        gesplit = row.split (';')
+        if int (kluisnummer) == int (gesplit[0]):
+            wachtwoord = input ('wat is je wachtwoord?')
+            if wachtwoord == gesplit[1].strip ():
+                print ('je kluis is geopend')
+                return
+    print ('deze kluis is niet in gebruik')
+
 
 def kluis_teruggeven():
-    with open('Kluizen.txt', 'r') as kluizen:
+    with open ('Kluizen.txt', 'r') as kluizen:
         kluisnummer = input ('Geef uw kluisnummer: ')
         kluiscode = input ('Geef uw kluiscode: ')
         combinatie = str (kluisnummer) + ';' + str (kluiscode)
-        if combinatie in open('Kluizen.txt').read():
-            kluis_nummers.append(str(kluisnummer))
+        if combinatie in open ('Kluizen.txt').read ():
+            kluis_nummers.append (str (kluisnummer))
     return
+
 
 menu = 0
 while True:
