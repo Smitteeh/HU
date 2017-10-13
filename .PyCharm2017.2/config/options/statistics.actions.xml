@@ -2,41 +2,42 @@
   <component name="ActionsCollector">
     <counts>
       <entry action="$Delete" count="14" />
-      <entry action="$SelectAll" count="17" />
-      <entry action="$Undo" count="652" />
+      <entry action="$SelectAll" count="22" />
+      <entry action="$Undo" count="670" />
+      <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="CheckinFiles" count="8" />
-      <entry action="CheckinProject" count="20" />
+      <entry action="CheckinProject" count="21" />
       <entry action="CloseActiveTab" count="16" />
       <entry action="CollapseRegion" count="3" />
       <entry action="CopyElement" count="1" />
       <entry action="Coverage" count="2" />
       <entry action="Debug" count="8" />
       <entry action="EditSourceInNewWindow" count="2" />
-      <entry action="EditorBackSpace" count="7087" />
-      <entry action="EditorChooseLookupItem" count="444" />
-      <entry action="EditorCopy" count="46" />
-      <entry action="EditorCut" count="75" />
-      <entry action="EditorDelete" count="653" />
+      <entry action="EditorBackSpace" count="7220" />
+      <entry action="EditorChooseLookupItem" count="452" />
+      <entry action="EditorCopy" count="48" />
+      <entry action="EditorCut" count="78" />
+      <entry action="EditorDelete" count="674" />
       <entry action="EditorDeleteLine" count="7" />
       <entry action="EditorDeleteToWordStart" count="5" />
-      <entry action="EditorDown" count="515" />
+      <entry action="EditorDown" count="520" />
       <entry action="EditorDownWithSelection" count="83" />
-      <entry action="EditorEnter" count="1010" />
-      <entry action="EditorIndentSelection" count="7" />
-      <entry action="EditorLeft" count="2273" />
+      <entry action="EditorEnter" count="1022" />
+      <entry action="EditorIndentSelection" count="13" />
+      <entry action="EditorLeft" count="2323" />
       <entry action="EditorLeftWithSelection" count="459" />
       <entry action="EditorNextWord" count="186" />
       <entry action="EditorNextWordWithSelection" count="65" />
-      <entry action="EditorPaste" count="171" />
+      <entry action="EditorPaste" count="184" />
       <entry action="EditorPreviousWord" count="73" />
       <entry action="EditorPreviousWordWithSelection" count="37" />
-      <entry action="EditorRight" count="4343" />
+      <entry action="EditorRight" count="4404" />
       <entry action="EditorRightWithSelection" count="419" />
       <entry action="EditorStartNewLine" count="3" />
-      <entry action="EditorTab" count="59" />
+      <entry action="EditorTab" count="61" />
       <entry action="EditorUnindentSelection" count="21" />
-      <entry action="EditorUp" count="360" />
+      <entry action="EditorUp" count="363" />
       <entry action="EditorUpWithSelection" count="29" />
       <entry action="ExpandRegion" count="3" />
       <entry action="Git.Add" count="8" />
@@ -46,26 +47,26 @@
       <entry action="Github.Open.In.Browser" count="1" />
       <entry action="Github.Share" count="4" />
       <entry action="GotoBookmark0" count="1" />
-      <entry action="HideAllWindows" count="4" />
+      <entry action="HideAllWindows" count="5" />
       <entry action="MoveStatementDown" count="2" />
       <entry action="MoveStatementUp" count="1" />
       <entry action="NewDir" count="2" />
-      <entry action="NewElement" count="43" />
+      <entry action="NewElement" count="53" />
       <entry action="NewFile" count="5" />
-      <entry action="NewPythonFile" count="5" />
+      <entry action="NewPythonFile" count="6" />
       <entry action="NewScratchFile" count="3" />
       <entry action="OpenFile" count="2" />
       <entry action="Profiler" count="1" />
       <entry action="ReformatCode" count="26" />
       <entry action="Rerun" count="140" />
-      <entry action="Run" count="1010" />
-      <entry action="RunClass" count="78" />
+      <entry action="Run" count="1051" />
+      <entry action="RunClass" count="80" />
       <entry action="SaveAll" count="6" />
       <entry action="SaveAs" count="2" />
       <entry action="SearchEverywhere" count="1" />
       <entry action="ShowBookmarks" count="2" />
       <entry action="ShowReformatFileDialog" count="1" />
-      <entry action="ShowSettings" count="7" />
+      <entry action="ShowSettings" count="8" />
       <entry action="Start.Use.Vcs" count="1" />
       <entry action="StepInto" count="12" />
       <entry action="StepOver" count="4" />
